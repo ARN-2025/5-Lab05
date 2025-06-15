@@ -1,0 +1,5 @@
+bieres
+champagne
+sans_alcool
+spiritueux
+vins
